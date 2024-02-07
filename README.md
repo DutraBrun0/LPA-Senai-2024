@@ -1,2 +1,15 @@
-# LPA-Senai-2024
-Repositório criado para a disciplina de lógica de programação e algoritmos 
+<h1 align="center">
+Lógica de programação e Algoritmo - 1° Semestre de 2024
+
+</h1>
+
+## curso 
+
+<ul>
+<li> curso técnico em análise e Desenvolvimento de sistema </li>
+</ul>
+
+## Cronograma 
+
+- [x] aula 04 - Inrtrodução ao github (07/02/2024)
+   - criação do perfil no github
