@@ -41,7 +41,7 @@ programa
 			se(media >=7)
 
 			
-				escreva( " eu Bruno dutra, sou viado, mas quero testar algo novo com a luisa")
+				escreva( "você foi aprovado")
 				}
 	
 		
@@ -52,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 620; 
+ * @POSICAO-CURSOR = 535; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
