@@ -2,6 +2,7 @@
  * Algoritmo: Verificação
  * @Bruno Dutra
  * 16/02/2024
+ * 	
 
 */
 
@@ -22,6 +23,7 @@ programa
 	senao{
 		escreva ("Sua letra é uma consoante")
 		}
+		
 	
 	
 		
@@ -32,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 58; 
+ * @POSICAO-CURSOR = 426; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
