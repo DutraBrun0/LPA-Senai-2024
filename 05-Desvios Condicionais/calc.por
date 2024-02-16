@@ -45,7 +45,7 @@ programa
 		senao se (operador == '*'){
 			resultado = n1 * n2
 			} senao{
-				escreva("Operador invalido! Escolha +, -, * ou /")
+				escreva("Operador invalido! Escolha +, -, * ou /	")
 				}
 
 			limpa()
@@ -62,7 +62,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 677; 
+ * @POSICAO-CURSOR = 678; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
