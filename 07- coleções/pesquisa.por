@@ -17,7 +17,7 @@ programa
 			}
 
 			se(nao achou ){
-				escreva("numero não encontrado3")
+				escreva("numero não encontrado")
 				}
 	}
 }
@@ -26,7 +26,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 156; 
+ * @POSICAO-CURSOR = 324; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
