@@ -8,8 +8,13 @@ programa
 		para (inteiro p = 0; p < 10; p++){
 			vetor [p] = util.sorteia(1, 100)
 			}
-
-			escreva(")
+			
+			escreva("Vetor na ordem original: \n")
+			para ( inteiro p =0; p <10 ; p++)
+			{
+				escreva (vetor[p], " ")
+				}
+			
 		
 	}
 }
@@ -18,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 208; 
+ * @POSICAO-CURSOR = 308; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
