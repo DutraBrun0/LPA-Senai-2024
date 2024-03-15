@@ -4,22 +4,29 @@ programa
 	funcao inicio()
 	{
 	inteiro vet[10]//declaramos um vetor de 10 posições
+	preencher (vet)
+	exibir (vet)
 		
 	}
-	funcao preencher (inteiro v[]){
+	funcao preencher (inteiro v1[]){
 		para (inteiro i = 0; i <10; i++ ){
-			v[i] = u.sorteia(1, 100)
-			}
+			v1[i] = u.sorteia(1, 100)
 		}
+		}
+		funcao exibir (inteiro v2[]){
+			para(inteiro j= 0; j <10 ; j++){
+				escreva ( v2[j], " ")
+				}
+			}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 222; 
+ * @POSICAO-CURSOR = 313; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
+ * @SIMBOLOS-INSPECIONADOS = {vet, 6, 9, 3}-{v1, 11, 27, 2}-{i, 12, 16, 1}-{v2, 16, 25, 2}-{j, 17, 16, 1};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
